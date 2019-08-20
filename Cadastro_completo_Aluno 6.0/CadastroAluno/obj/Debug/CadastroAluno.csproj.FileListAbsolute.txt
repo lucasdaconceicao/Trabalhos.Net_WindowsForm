@@ -1,0 +1,158 @@
+c:\users\lucas\documents\visual studio 2015\Projects\CadastroAluno\CadastroAluno\bin\Debug\CadastroAluno.exe.config
+c:\users\lucas\documents\visual studio 2015\Projects\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.csprojResolveAssemblyReference.cache
+c:\users\lucas\documents\visual studio 2015\Projects\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.Properties.Resources.resources
+c:\users\lucas\documents\visual studio 2015\Projects\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.csproj.GenerateResource.Cache
+c:\users\lucas\documents\visual studio 2015\Projects\CadastroAluno\CadastroAluno\bin\Debug\CadastroAluno.exe
+c:\users\lucas\documents\visual studio 2015\Projects\CadastroAluno\CadastroAluno\bin\Debug\CadastroAluno.pdb
+c:\users\lucas\documents\visual studio 2015\Projects\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.exe
+c:\users\lucas\documents\visual studio 2015\Projects\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.pdb
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.FrmCadastroAluno.resources
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.FrmcadastroMateria.resources
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.FrmCadastroNotas.resources
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.FrmCurso.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno1.0\CadastroAluno\obj\Debug\CadastroAluno.FrmCadastroAluno.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno1.0\CadastroAluno\obj\Debug\CadastroAluno.FrmcadastroMateria.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno1.0\CadastroAluno\obj\Debug\CadastroAluno.FrmCadastroNotas.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno1.0\CadastroAluno\obj\Debug\CadastroAluno.FrmCurso.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno1.0\CadastroAluno\obj\Debug\CadastroAluno.Properties.Resources.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno1.0\CadastroAluno\obj\Debug\CadastroAluno.csproj.GenerateResource.Cache
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno1.0\CadastroAluno\obj\Debug\CadastroAluno.exe
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno1.0\CadastroAluno\obj\Debug\CadastroAluno.pdb
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno1.0\CadastroAluno\bin\Debug\CadastroAluno.exe.config
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno1.0\CadastroAluno\bin\Debug\CadastroAluno.exe
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno1.0\CadastroAluno\bin\Debug\CadastroAluno.pdb
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno1.0\CadastroAluno\obj\Debug\CadastroAluno.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno1.0\CadastroAluno\obj\Debug\CadastroAluno.FrmListarAluno.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno1.0\CadastroAluno\obj\Debug\CadastroAluno.FrmControle.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno1.0\CadastroAluno\obj\Debug\CadastroAluno.FrmExcluirAluno.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno2.0\CadastroAluno\bin\Debug\CadastroAluno.exe.config
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno2.0\CadastroAluno\obj\Debug\CadastroAluno.exe
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno2.0\CadastroAluno\obj\Debug\CadastroAluno.pdb
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno2.0\CadastroAluno\obj\Debug\CadastroAluno.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno2.0\CadastroAluno\obj\Debug\CadastroAluno.FrmCadastroAluno.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno2.0\CadastroAluno\obj\Debug\CadastroAluno.FrmcadastroMateria.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno2.0\CadastroAluno\obj\Debug\CadastroAluno.FrmCadastroNotas.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno2.0\CadastroAluno\obj\Debug\CadastroAluno.FrmControle.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno2.0\CadastroAluno\obj\Debug\CadastroAluno.FrmExcluirAluno.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno2.0\CadastroAluno\obj\Debug\CadastroAluno.FrmListarAluno.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno2.0\CadastroAluno\obj\Debug\CadastroAluno.Properties.Resources.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno2.0\CadastroAluno\obj\Debug\CadastroAluno.csproj.GenerateResource.Cache
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno2.0\CadastroAluno\bin\Debug\CadastroAluno.exe
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno2.0\CadastroAluno\bin\Debug\CadastroAluno.pdb
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno2.0\CadastroAluno\obj\Debug\CadastroAluno.FrmExcluirMateria.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno2.0\CadastroAluno\obj\Debug\CadastroAluno.FrmListarMateria.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno2.0\CadastroAluno\obj\Debug\CadastroAluno.FrmListarNotasFaltas.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno2.0\CadastroAluno\obj\Debug\CadastroAluno.FrmExcluirNotas_Faltas.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 3.0\CadastroAluno\bin\Debug\CadastroAluno.exe.config
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 3.0\CadastroAluno\obj\Debug\CadastroAluno.exe
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 3.0\CadastroAluno\obj\Debug\CadastroAluno.pdb
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 3.0\CadastroAluno\bin\Debug\CadastroAluno.exe
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 3.0\CadastroAluno\bin\Debug\CadastroAluno.pdb
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 3.0\CadastroAluno\obj\Debug\CadastroAluno.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 3.0\CadastroAluno\obj\Debug\CadastroAluno.FrmCadastroAluno.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 3.0\CadastroAluno\obj\Debug\CadastroAluno.FrmCadastroMateria.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 3.0\CadastroAluno\obj\Debug\CadastroAluno.FrmCadastroNotas.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 3.0\CadastroAluno\obj\Debug\CadastroAluno.FrmControle.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 3.0\CadastroAluno\obj\Debug\CadastroAluno.FrmExcluirAluno.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 3.0\CadastroAluno\obj\Debug\CadastroAluno.FrmExcluirMateria.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 3.0\CadastroAluno\obj\Debug\CadastroAluno.FrmExcluirNotas_Faltas.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 3.0\CadastroAluno\obj\Debug\CadastroAluno.FrmListarAluno.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 3.0\CadastroAluno\obj\Debug\CadastroAluno.FrmListarMateria.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 3.0\CadastroAluno\obj\Debug\CadastroAluno.FrmListarNotasFaltas.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 3.0\CadastroAluno\obj\Debug\CadastroAluno.Properties.Resources.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 3.0\CadastroAluno\obj\Debug\CadastroAluno.csproj.GenerateResource.Cache
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 4.0\CadastroAluno\bin\Debug\CadastroAluno.exe.config
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 4.0\CadastroAluno\obj\Debug\CadastroAluno.exe
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 4.0\CadastroAluno\obj\Debug\CadastroAluno.pdb
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 4.0\CadastroAluno\bin\Debug\CadastroAluno.exe
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 4.0\CadastroAluno\bin\Debug\CadastroAluno.pdb
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 4.0\CadastroAluno\obj\Debug\CadastroAluno.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 4.0\CadastroAluno\obj\Debug\CadastroAluno.FrmCadastroAluno.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 4.0\CadastroAluno\obj\Debug\CadastroAluno.FrmCadastroMateria.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 4.0\CadastroAluno\obj\Debug\CadastroAluno.FrmCadastroNotas.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 4.0\CadastroAluno\obj\Debug\CadastroAluno.FrmControle.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 4.0\CadastroAluno\obj\Debug\CadastroAluno.FrmExcluirAluno.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 4.0\CadastroAluno\obj\Debug\CadastroAluno.FrmExcluirMateria.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 4.0\CadastroAluno\obj\Debug\CadastroAluno.FrmExcluirNotas_Faltas.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 4.0\CadastroAluno\obj\Debug\CadastroAluno.FrmListarAluno.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 4.0\CadastroAluno\obj\Debug\CadastroAluno.FrmListarMateria.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 4.0\CadastroAluno\obj\Debug\CadastroAluno.FrmListarNotasFaltas.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 4.0\CadastroAluno\obj\Debug\CadastroAluno.Properties.Resources.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 4.0\CadastroAluno\obj\Debug\CadastroAluno.csproj.GenerateResource.Cache
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 5.0\CadastroAluno\bin\Debug\CadastroAluno.exe.config
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 5.0\CadastroAluno\obj\Debug\CadastroAluno.exe
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 5.0\CadastroAluno\obj\Debug\CadastroAluno.pdb
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 5.0\CadastroAluno\bin\Debug\CadastroAluno.exe
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 5.0\CadastroAluno\bin\Debug\CadastroAluno.pdb
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 5.0\CadastroAluno\obj\Debug\CadastroAluno.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 5.0\CadastroAluno\obj\Debug\CadastroAluno.FrmCadastroAluno.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 5.0\CadastroAluno\obj\Debug\CadastroAluno.FrmCadastroMateria.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 5.0\CadastroAluno\obj\Debug\CadastroAluno.FrmCadastroNotas.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 5.0\CadastroAluno\obj\Debug\CadastroAluno.FrmControle.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 5.0\CadastroAluno\obj\Debug\CadastroAluno.FrmExcluirAluno.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 5.0\CadastroAluno\obj\Debug\CadastroAluno.FrmExcluirMateria.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 5.0\CadastroAluno\obj\Debug\CadastroAluno.FrmExcluirNotas_Faltas.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 5.0\CadastroAluno\obj\Debug\CadastroAluno.FrmListarAluno.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 5.0\CadastroAluno\obj\Debug\CadastroAluno.FrmListarMateria.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 5.0\CadastroAluno\obj\Debug\CadastroAluno.FrmListarNotasFaltas.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 5.0\CadastroAluno\obj\Debug\CadastroAluno.Properties.Resources.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 5.0\CadastroAluno\obj\Debug\CadastroAluno.csproj.GenerateResource.Cache
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 6.0\CadastroAluno\bin\Debug\CadastroAluno.exe.config
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.exe
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.pdb
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 6.0\CadastroAluno\bin\Debug\CadastroAluno.exe
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 6.0\CadastroAluno\bin\Debug\CadastroAluno.pdb
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmCadastroAluno.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmCadastroMateria.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmCadastroNotas.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmControle.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmExcluirAluno.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmExcluirMateria.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmExcluirNotas_Faltas.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmListarAluno.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmListarMateria.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmListarNotasFaltas.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.Properties.Resources.resources
+C:\Users\lucas\Documents\Faculdade\4 periodo\linguagem de programação1\trabLp1\CadastroAluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.csproj.GenerateResource.Cache
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\bin\Debug\CadastroAluno.exe.config
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.exe
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.pdb
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\bin\Debug\CadastroAluno.exe
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\bin\Debug\CadastroAluno.pdb
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.csprojResolveAssemblyReference.cache
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmCadastroAluno.resources
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmCadastroMateria.resources
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmCadastroNotas.resources
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmControle.resources
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmExcluirAluno.resources
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmExcluirMateria.resources
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmExcluirNotas_Faltas.resources
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmListarAluno.resources
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmListarMateria.resources
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmListarNotasFaltas.resources
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.Properties.Resources.resources
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.csproj.GenerateResource.Cache
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\bin\Debug\Tela_login.dll
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\bin\Debug\Tela_login.pdb
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\bin\Debug\CadastroAluno.exe.config
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\bin\Debug\CadastroAluno.exe
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\bin\Debug\CadastroAluno.pdb
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\bin\Debug\Tela_login.pdb
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.csprojAssemblyReference.cache
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmCadastroAluno.resources
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmCadastroMateria.resources
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmCadastroNotas.resources
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmControle.resources
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmExcluirAluno.resources
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmExcluirMateria.resources
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmExcluirNotas_Faltas.resources
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmListarAluno.resources
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmListarMateria.resources
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.FrmListarNotasFaltas.resources
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.Properties.Resources.resources
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.csproj.GenerateResource.cache
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.csproj.CopyComplete
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.exe
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Cadastro_completo_Aluno 6.0\CadastroAluno\obj\Debug\CadastroAluno.pdb

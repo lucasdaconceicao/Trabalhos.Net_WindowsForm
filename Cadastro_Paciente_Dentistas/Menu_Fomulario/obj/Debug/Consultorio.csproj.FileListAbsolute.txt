@@ -1,0 +1,17 @@
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\lp2\Lista de Compras - lista 5\Menu_Fomulario\bin\Debug\Menu_Fomulario.exe.config
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\lp2\Lista de Compras - lista 5\Menu_Fomulario\bin\Debug\Menu_Fomulario.exe
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\lp2\Lista de Compras - lista 5\Menu_Fomulario\bin\Debug\Menu_Fomulario.pdb
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\lp2\Lista de Compras - lista 5\Menu_Fomulario\obj\Debug\Consultorio.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\lp2\Lista de Compras - lista 5\Menu_Fomulario\obj\Debug\Menu_Fomulario.Menu_formulario.resources
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\lp2\Lista de Compras - lista 5\Menu_Fomulario\obj\Debug\Menu_Fomulario.Properties.Resources.resources
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\lp2\Lista de Compras - lista 5\Menu_Fomulario\obj\Debug\Consultorio.csproj.GenerateResource.Cache
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\lp2\Lista de Compras - lista 5\Menu_Fomulario\obj\Debug\Menu_Fomulario.exe
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\lp2\Lista de Compras - lista 5\Menu_Fomulario\obj\Debug\Menu_Fomulario.pdb
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\lp2\Lista de Compras - lista 5\Menu_Fomulario\obj\Debug\Menu_Fomulario.Cadastro_Pacientes.resources
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\lp2\Lista de Compras - lista 5\Menu_Fomulario\obj\Debug\Menu_Fomulario.Cadastro_Dentista.resources
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\Lista 5\Menu_Fomulario\bin\Debug\Menu_Fomulario.exe.config
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\Lista 5\Menu_Fomulario\obj\Debug\Menu_Fomulario.exe
+C:\Users\lucass\Documents\Visual Studio 2015\Projects\Trabahos.Net\Windows Form\Lista 5\Menu_Fomulario\obj\Debug\Menu_Fomulario.pdb
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Lista 5\Menu_Fomulario\obj\Debug\Consultorio.csprojAssemblyReference.cache
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Lista 5\Menu_Fomulario\obj\Debug\Menu_Fomulario.exe
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Lista 5\Menu_Fomulario\obj\Debug\Menu_Fomulario.pdb

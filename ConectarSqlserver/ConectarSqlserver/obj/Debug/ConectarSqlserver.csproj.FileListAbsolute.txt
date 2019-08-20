@@ -1,0 +1,9 @@
+c:\users\lucass\documents\visual studio 2015\Projects\ConectarSqlserver\ConectarSqlserver\bin\Debug\ConectarSqlserver.exe.config
+c:\users\lucass\documents\visual studio 2015\Projects\ConectarSqlserver\ConectarSqlserver\bin\Debug\ConectarSqlserver.exe
+c:\users\lucass\documents\visual studio 2015\Projects\ConectarSqlserver\ConectarSqlserver\bin\Debug\ConectarSqlserver.pdb
+c:\users\lucass\documents\visual studio 2015\Projects\ConectarSqlserver\ConectarSqlserver\obj\Debug\ConectarSqlserver.csprojResolveAssemblyReference.cache
+c:\users\lucass\documents\visual studio 2015\Projects\ConectarSqlserver\ConectarSqlserver\obj\Debug\ConectarSqlserver.Form1.resources
+c:\users\lucass\documents\visual studio 2015\Projects\ConectarSqlserver\ConectarSqlserver\obj\Debug\ConectarSqlserver.Properties.Resources.resources
+c:\users\lucass\documents\visual studio 2015\Projects\ConectarSqlserver\ConectarSqlserver\obj\Debug\ConectarSqlserver.csproj.GenerateResource.Cache
+c:\users\lucass\documents\visual studio 2015\Projects\ConectarSqlserver\ConectarSqlserver\obj\Debug\ConectarSqlserver.exe
+c:\users\lucass\documents\visual studio 2015\Projects\ConectarSqlserver\ConectarSqlserver\obj\Debug\ConectarSqlserver.pdb

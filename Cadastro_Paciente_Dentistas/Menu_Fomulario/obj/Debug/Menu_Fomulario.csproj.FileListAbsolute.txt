@@ -1,0 +1,9 @@
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\lp2\Lista de Compras - lista 5\Menu_Fomulario\bin\Debug\Menu_Fomulario.exe.config
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\lp2\Lista de Compras - lista 5\Menu_Fomulario\bin\Debug\Menu_Fomulario.exe
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\lp2\Lista de Compras - lista 5\Menu_Fomulario\bin\Debug\Menu_Fomulario.pdb
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\lp2\Lista de Compras - lista 5\Menu_Fomulario\obj\Debug\Menu_Fomulario.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\lp2\Lista de Compras - lista 5\Menu_Fomulario\obj\Debug\Menu_Fomulario.Form1.resources
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\lp2\Lista de Compras - lista 5\Menu_Fomulario\obj\Debug\Menu_Fomulario.Properties.Resources.resources
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\lp2\Lista de Compras - lista 5\Menu_Fomulario\obj\Debug\Menu_Fomulario.csproj.GenerateResource.Cache
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\lp2\Lista de Compras - lista 5\Menu_Fomulario\obj\Debug\Menu_Fomulario.exe
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\lp2\Lista de Compras - lista 5\Menu_Fomulario\obj\Debug\Menu_Fomulario.pdb

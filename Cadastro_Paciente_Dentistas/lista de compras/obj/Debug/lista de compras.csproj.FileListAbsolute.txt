@@ -1,0 +1,19 @@
+c:\users\lucas\documents\visual studio 2015\Projects\lista de compras\lista de compras\bin\Debug\lista de compras.exe.config
+c:\users\lucas\documents\visual studio 2015\Projects\lista de compras\lista de compras\bin\Debug\lista de compras.exe
+c:\users\lucas\documents\visual studio 2015\Projects\lista de compras\lista de compras\bin\Debug\lista de compras.pdb
+c:\users\lucas\documents\visual studio 2015\Projects\lista de compras\lista de compras\obj\Debug\lista de compras.csprojResolveAssemblyReference.cache
+c:\users\lucas\documents\visual studio 2015\Projects\lista de compras\lista de compras\obj\Debug\lista de compras.exe
+c:\users\lucas\documents\visual studio 2015\Projects\lista de compras\lista de compras\obj\Debug\lista de compras.pdb
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\lp2\Lista de Compras - lista 5\lista de compras\bin\Debug\lista de compras.exe.config
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\lp2\Lista de Compras - lista 5\lista de compras\obj\Debug\lista de compras.exe
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\lp2\Lista de Compras - lista 5\lista de compras\obj\Debug\lista de compras.pdb
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\lp2\Lista de Compras - lista 5\lista de compras\bin\Debug\lista de compras.exe
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\lp2\Lista de Compras - lista 5\lista de compras\bin\Debug\lista de compras.pdb
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\lp2\Lista de Compras - lista 5\lista de compras\obj\Debug\lista de compras.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Lista 5\lista de compras\bin\Debug\lista de compras.exe.config
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Lista 5\lista de compras\bin\Debug\lista de compras.exe
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Lista 5\lista de compras\bin\Debug\lista de compras.pdb
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Lista 5\lista de compras\obj\Debug\lista de compras.csprojAssemblyReference.cache
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Lista 5\lista de compras\obj\Debug\lista de compras.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Lista 5\lista de compras\obj\Debug\lista de compras.exe
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Lista 5\lista de compras\obj\Debug\lista de compras.pdb

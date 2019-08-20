@@ -1,0 +1,31 @@
+c:\users\lucas\documents\visual studio 2015\Projects\exercicio aula 8\exercicio aula 8\bin\Debug\exercicio aula 8.exe.config
+c:\users\lucas\documents\visual studio 2015\Projects\exercicio aula 8\exercicio aula 8\obj\Debug\exercicio aula 8.csprojResolveAssemblyReference.cache
+c:\users\lucas\documents\visual studio 2015\Projects\exercicio aula 8\exercicio aula 8\obj\Debug\exercicio_aula_8.Frmprincipal.resources
+c:\users\lucas\documents\visual studio 2015\Projects\exercicio aula 8\exercicio aula 8\obj\Debug\exercicio_aula_8.Properties.Resources.resources
+c:\users\lucas\documents\visual studio 2015\Projects\exercicio aula 8\exercicio aula 8\obj\Debug\exercicio aula 8.csproj.GenerateResource.Cache
+c:\users\lucas\documents\visual studio 2015\Projects\exercicio aula 8\exercicio aula 8\bin\Debug\exercicio aula 8.exe
+c:\users\lucas\documents\visual studio 2015\Projects\exercicio aula 8\exercicio aula 8\bin\Debug\exercicio aula 8.pdb
+c:\users\lucas\documents\visual studio 2015\Projects\exercicio aula 8\exercicio aula 8\obj\Debug\exercicio aula 8.exe
+c:\users\lucas\documents\visual studio 2015\Projects\exercicio aula 8\exercicio aula 8\obj\Debug\exercicio aula 8.pdb
+c:\users\lucas\documents\visual studio 2015\Projects\exercicio aula 8\exercicio aula 8\obj\Debug\exercicio_aula_8.Frmcalculadora.resources
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\1 trimestre\exercicio aula 8\exercicio aula 8\bin\Debug\exercicio aula 8.exe.config
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\1 trimestre\exercicio aula 8\exercicio aula 8\obj\Debug\exercicio aula 8.exe
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\1 trimestre\exercicio aula 8\exercicio aula 8\obj\Debug\exercicio aula 8.pdb
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\1 trimestre\exercicio aula 8\exercicio aula 8\bin\Debug\exercicio aula 8.exe
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\1 trimestre\exercicio aula 8\exercicio aula 8\bin\Debug\exercicio aula 8.pdb
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\1 trimestre\exercicio aula 8\exercicio aula 8\obj\Debug\exercicio aula 8.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\1 trimestre\exercicio aula 8\exercicio aula 8\obj\Debug\exercicio_aula_8.Frmcalculadora.resources
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\1 trimestre\exercicio aula 8\exercicio aula 8\obj\Debug\exercicio_aula_8.Frmprincipal.resources
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\1 trimestre\exercicio aula 8\exercicio aula 8\obj\Debug\exercicio_aula_8.Properties.Resources.resources
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\1 trimestre\exercicio aula 8\exercicio aula 8\obj\Debug\exercicio aula 8.csproj.GenerateResource.Cache
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Calculadora Windows form\exercicio aula 8\bin\Debug\exercicio aula 8.exe.config
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Calculadora Windows form\exercicio aula 8\bin\Debug\exercicio aula 8.exe
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Calculadora Windows form\exercicio aula 8\bin\Debug\exercicio aula 8.pdb
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Calculadora Windows form\exercicio aula 8\obj\Debug\exercicio aula 8.csprojAssemblyReference.cache
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Calculadora Windows form\exercicio aula 8\obj\Debug\exercicio_aula_8.Frmcalculadora.resources
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Calculadora Windows form\exercicio aula 8\obj\Debug\exercicio_aula_8.Frmprincipal.resources
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Calculadora Windows form\exercicio aula 8\obj\Debug\exercicio_aula_8.Properties.Resources.resources
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Calculadora Windows form\exercicio aula 8\obj\Debug\exercicio aula 8.csproj.GenerateResource.cache
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Calculadora Windows form\exercicio aula 8\obj\Debug\exercicio aula 8.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Calculadora Windows form\exercicio aula 8\obj\Debug\exercicio aula 8.exe
+C:\Users\lucas\Downloads\Trabahos.Net-master\Windows Form\Calculadora Windows form\exercicio aula 8\obj\Debug\exercicio aula 8.pdb
